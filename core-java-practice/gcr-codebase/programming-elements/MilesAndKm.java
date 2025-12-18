@@ -8,7 +8,7 @@ public class MilesAndKm {
     // calculate km in miles
     double miles = km / 1.6;
 
-    System.out.println("The distance " + km + " km in miles is " + miles);
+    System.out.println("The total miles is " + miles + " mile for the given " + km + " km");
 
   }
 
