@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class celToFah {
+public class CelToFah {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int cel = sc.nextInt(); // taking input from the user
