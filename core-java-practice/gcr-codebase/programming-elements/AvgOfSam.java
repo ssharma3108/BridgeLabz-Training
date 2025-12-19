@@ -1,5 +1,5 @@
 
-public class avgOfSam {
+public class AvgOfSam {
   public static void main(String[] args) {
     int Math = 94;
     int Physics = 95;
