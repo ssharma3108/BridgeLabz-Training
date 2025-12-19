@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ageOfHarry {
+public class AgeOfHarry {
    public ageOfHarry() {
    }
 
