@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class areaOfCricle {
+public class AreaOfCricle {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int r = sc.nextInt(); // taking input radius

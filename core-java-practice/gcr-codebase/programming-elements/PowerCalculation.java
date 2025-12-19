@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class powerCalculation {
+public class PowerCalculation {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     double power = sc.nextInt();
