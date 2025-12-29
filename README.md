@@ -1,9 +1,3 @@
-Here’s a **clean, attractive, and table-free README** with icons, spacing, and a smooth flow. It looks more like a **professional learning log** and is easy to read on GitHub 👌
-
-You can directly replace your current content with this 👇
-
----
-
 # 🚀 BridgeLabz Training Program
 
 Welcome to my **BridgeLabz Java Training Repository** 👨‍💻
