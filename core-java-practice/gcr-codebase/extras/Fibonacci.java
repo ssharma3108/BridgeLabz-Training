@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Fibonacci {
 
-  // using recursion for find the fibonacci sequence.........
+  // using recursion for find the fibonacci sequence........
   static int fibo(int n) {
     if (n == 0) {
       return 0;
