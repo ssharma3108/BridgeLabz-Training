@@ -28,7 +28,7 @@ public class NumberGuessingGame {
         System.out.println("Computer will guess a higher number.");
         number = r.nextInt(100) + number;
       } else {
-        System.out.println("Congratulation , you guess it correctly ............");
+        System.out.println("Congratulation , you guess it correctly ...........");
         break;
       }
     }
