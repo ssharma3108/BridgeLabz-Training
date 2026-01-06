@@ -37,7 +37,7 @@ public class Library {
       System.out.println("\nPress 1: Add  2: Search  3: Display  4: Exit");
       int choice = sc.nextInt();
       sc.nextLine();
-
+      // for add
       if (choice == 1) {
         System.out.print("Enter the title of the book -: ");
         String ti = sc.nextLine();
@@ -45,7 +45,7 @@ public class Library {
         String a = sc.nextLine();
         String status = "available";
         book.add(new Book(ti, a, status));
-      } else if (choice == 2) {
+      } else if (choice == 2) { // for search
         System.out.print("Enter the title of the book to search -: ");
         String t = sc.nextLine();
         boolean found = false;
@@ -59,12 +59,12 @@ public class Library {
         if (!found) {
           System.out.println("Not found........");
         }
-      } else if (choice == 3) {
+      } else if (choice == 3) { // for display
         for (Book b : book) {
           System.out.println(
               "Book title -: " + b.getTitle() + " | Author -: " + b.getAuthor() + " | Status -: " + b.getStatus());
         }
-      } else if (choice == 4) {
+      } else if (choice == 4) { // for exit
         System.out.println("Thank you");
         break;
       }
