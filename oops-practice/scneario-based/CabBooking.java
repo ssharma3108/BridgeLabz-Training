@@ -90,7 +90,7 @@ public class CabBooking {
   public static void main(String[] args) {
     Driver d1 = new Driver("Shivam", 15, true);
     User u1 = new User("Aditya", 1);
-
+    // try - catch block
     try {
       Ride ride1 = new Ride(u1, d1, 10, 4);
       ride1.displayBill();
