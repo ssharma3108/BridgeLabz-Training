@@ -1,83 +1,182 @@
-# 🚀 BridgeLabz Training Program
+## BridgeLabz Training
 
-Welcome to my **BridgeLabz Java Training Repository** 👨‍💻
-This repository documents my **weekly learning progress, hands-on practice, and problem-solving journey** during the BridgeLabz training program.
+This repository contains all the tasks, practice programs, scenario-based problems, and problem-solving work completed as part of **BridgeLabz Training** and organized week-wise, day-wise and topic-wise while following standard GitHub workflows.
 
----
-
-## 📁 Repository Structure
-
-```
-BridgeLabz-Training/
-│
-├── core-java-practice/   (Branch & Folder)
-│   │
-│   ├── gcr-codebase/
-│   │   ├── programming-elements/
-│   │   ├── control-flow/
-│   │
-│   ├── leet-code-codebase/
-│   │
-│   ├── scenario-based/
-│
-└── README.md
-```
+## Repository Structure :-
 
 ---
 
-## 📌 Training Workflow Overview
+     BridgeLabz-Training/
+     │
+     ├── core-java-practice/
+     │   │
+     │   ├── gcr-codebase/
+     │   │   ├── programming-elements/
+     │   │   └── control-flow/
+     │   │
+     │   ├── leet-code-codebase/
+     │   │
+     │   └── scenario-based/
+     │
+     ├── oops-practice/
+     │   │
+     │   ├── gcr-codebase/
+     │   │   ├── class-and-object/
+     │   │   ├── java-constructors/
+     |   |   ├── java-keywords/
+     |   |   ├── object-modeling/
+     |   |   ├── inheritance/
+     |   |   ├── oops-pillars/
+     |   |
+     │   ├── leet-code-codebase/
+     |   |
+     │   └── scenario-based/
+     |
+     |
+     ├── dsa-practice/
+     │   ├── gcr-codebase/
+     │   │   ├── linked-list/
+     |   |
+     |   |
+     ├── reviews/
+     |
+     +-- README.md
 
-### 🗓️ Week 1: Java Basics, Control Flow & Arrays
-
-📅 **17-Dec-2025 (Wednesday)**
-Installed and configured **GitHub**
-Solved **5 basic problems** and pushed solutions to the **LeetCode folder**
-
-📅 **18-Dec-2025 (Thursday)**
-Studied **Java fundamentals documentation**
-Solved **all levels of practice problems** related to Java basics
-
-📅 **19-Dec-2025 (Friday)**
-Learned **Control Flow concepts**
-Solved and submitted control flow practice problems
-
-📅 **20-Dec-2025 (Saturday)**
-Studied **Arrays in Java**
-Solved **Level 1 to Level 3 array problems**
-
----
-
-### 🗓️ Week 2: Strings & Methods
-
-📅 **22-Dec-2025 (Monday)**
-Studied **String concepts**
-Solved **Level 1 string problems**
-
-📅 **23-Dec-2025 (Tuesday)**
-Solved **Level 2 and Level 3 string problems**
-Focused on logic building and optimization
-
-📅 **24-Dec-2025 (Wednesday)**
-Revised **Control Flow concepts**
-Practiced and submitted related problems
-
-📅 **26-Dec-2025 (Friday)**
-Continued **Control Flow practice**
-Improved solution efficiency and readability
-
-📅 **28-Dec-2025 (Sunday)**
-Worked on **Scenario-Based Questions**
-Practiced **Built-in Java Methods**
+## Weekly Workflow & Progress :-
 
 ---
 
-## 🛠️ Technologies & Tools Used
+## Week 1: Java Basics, Control Flow & Arrays
 
-**Java** – Core language for problem solving
-**Core Java Concepts** – OOPs, data handling, logic building
-**Control Flow & Arrays** – Decision making & data storage
-**Strings & Methods** – Text processing and modular coding
-**Problem Solving** – Logical and analytical thinking
-**Git & GitHub** – Version control and code management
+---
 
-### 🙌 Thank You for Visiting!
+- **16-Dec-2025 (Tuesday)** :-
+
+  - Introduction to BridgeLabz training process and guidelines
+  - Installed JDK
+  - Installed Eclipse IDE
+
+- **17-Dec-2025 (Wednesday)** :-
+
+  - Installed and configured Git & GitHub
+  - Solved 5 Java problems
+  - Pushed solutions to the leet-code-codebase
+
+- **18-Dec-2025 (Thursday)** :-
+
+  - Studied Java Basics documentation
+  - Solved all level practice problems.
+
+- **19-Dec-2025 (Friday)** :-
+
+  - Studied Control Flow documentation
+  - Solved and submitted Control Flow practice problems
+  - Enhanced logical thinking and problem-solving
+
+- **20-Dec-2025 (Saturday)** :-
+  - Studied Arrays documentation
+  - Solved all level practice problems related to Arrays
+  - Solved practice problems based on single and multi-dimensional arrays
+  - Solved 2 Scenario Based questions
+
+## Week 2: Strings
+
+---
+
+- **22-Dec-2025 (Monday)** :-
+
+  - Studied String documentation
+  - Solved Level 1 and Level 2 String practice problems
+  - Enhanced understanding of string manipulation and error handling
+
+- **23-Dec-2025 (Tuesday)** :-
+
+  - Solved Level 3 String practice problems
+  - Solved a scenario based question on _Election Booth Manager_
+  - Strengthened logical thinking through conditional and iterative problem-solving
+
+- **24-Dec-2025 (Wednesday)** :-
+
+  - Solved String Methods – Level 1 and Level 2 practice problems
+  - Solved a Scenario based questions on _Smart Metro Card_
+
+- **26-Dec-2025 (Friday)** :-
+  - Solved String Methods Level 3 and Uploaded it
+  - Solved Extra Questions on String Methods
+  - Solved 2 scenario based questions
+
+## Week 3: OOPS Basics
+
+---
+
+- **29-Dec-2025 (Monday)** :-
+
+  - Completed Built-In Method Extra questions
+  - Solved 4 Scenario based questions
+  - Solved _Employee Wage Computation_ Scenario based question
+
+- **30-Dec-2025 (Tuesday)** :-
+
+  - Solved _Line Comparison_ Scenario based question
+  - Solved _Snake And Ladder_ Scenario based question
+  - Studied Oops Java Material sheet and Git Cheat Sheet
+
+- **31-Dec-2025 (Wednesday) :-**
+
+  - Solved java _Class And Object_ assignment
+  - Solved _Java Constructor_ and _Access Modifier_ assignment
+
+- **01-Jan-2026 (Thursday) :-**
+
+  - Solved and submitted _Java Keywords_ assignment
+  - Solved _Sentence Formatter_ Scenario based question
+  - Solved _Paragraph Analyzer_ Scennario based question
+
+- **02-Jan-2026 (Friday) :-**
+
+  - Studied and created _Object Modeling_ diagrams
+  - Solved _Temperature Analyzer_ scenario based question
+  - Solved _program to manage Student Scores_ Scenario based question
+
+- **03-Jan-2026 (Saturday) :-**
+  - Studied material and Completed _Inheritance_ assignment
+  - Solved _Library Management System_ scenario based question
+  - Solved _EduQuiz_ Scenario based question
+
+## Week 4: Advance OOPS Concept And DSA
+
+---
+
+- **05-Jan-2026 (Monday) :-**
+
+  - Studied the module and Solved some problems on _oops-pillars_
+  - Solved _Bank Account Manager_ Scenario based question
+  - Solved _Utility class for Mathematical operations_ Scenario based question
+
+- **06-Jan-2026 (Tuesday) :-**
+
+  - Solved and Submitted questions on _oops-concept_
+  - Solved Scenario based questions like _Phone Contact Organizer_ and _Student Report Generator_
+  - Solved Scenario based question of _Cafeteria Menu App_ and _Bank Account Manager_
+
+- **07-Jan-2026 (Wednesday) :-**
+
+  - Studied _Data Structure Introduction and LinkedList_ material
+  - Studied _Approach towards Story Based Problem (Scenario)_ sheet
+  - Solved _Cab Booking / Ride Management System_ scenario based question
+  - Solved _Online Banking System_ scenario based question
+
+- **08-Jan-2026 (Thursday) :-**
+
+  - Solved some problems related to _linked list_
+  - Solved a scenario based question on _Invoice Generator for Freelancers_
+
+- **09-Jan-2026 (Friday) :-**
+
+  - Completed remaining problems related to _linked list_
+
+  - **10-Jan-2026 (Saturday) :-**
+  - Completed remaining Scneario Based Problems
+  - Solved scenario based question on _Hospital Patient Management System_
+  - Solved scenario based question on _Vehicle Rental Application_
+  - Solved scenario based question on _Flight Booking System_
