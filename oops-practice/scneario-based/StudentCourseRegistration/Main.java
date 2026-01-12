@@ -2,62 +2,6 @@ package StudentCourseRegistration;
 
 import java.util.*;
 
-class Student {
-  private int studentId;
-  private String studentName;
-
-  Student(int studentId, String studentName) {
-    this.studentId = studentId;
-    this.studentName = studentName;
-  }
-
-  public int getStudentId() {
-    return studentId;
-  }
-
-  public String getStudentName() {
-    return studentName;
-  }
-}
-
-class Course {
-  private int coruseId;
-  private String courseName;
-
-  Course(int coruseId, String courseName) {
-    this.coruseId = coruseId;
-    this.courseName = courseName;
-  }
-
-  public int getCoruseId() {
-    return coruseId;
-  }
-
-  public String getCourseName() {
-    return courseName;
-  }
-
-}
-
-class Addition {
-  private Course course;
-  private Student student;
-
-  Addition(Course course, Student student) {
-    this.course = course;
-    this.student = student;
-  }
-
-  public Course getCourse() {
-    return course;
-  }
-
-  public Student getStudent() {
-    return student;
-  }
-
-}
-
 public class Main {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
