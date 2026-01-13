@@ -176,7 +176,13 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Completed remaining problems related to _linked list_
 
 - **10-Jan-2026 (Saturday) :-**
+
   - Completed remaining Scneario Based Problems
   - Solved scenario based question on _Hospital Patient Management System_
   - Solved scenario based question on _Vehicle Rental Application_
   - Solved scenario based question on _Flight Booking System_
+
+- **12-Jan-2026 (Monday) :-**
+  - Solved scenario based question on _E-Commerce Order Management System_
+  - Solved scenario based question on _Student Course Registration System_
+  - Solved scenario based question on _ Inventory Management System_
