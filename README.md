@@ -183,6 +183,13 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved scenario based question on _Flight Booking System_
 
 - **12-Jan-2026 (Monday) :-**
+
   - Solved scenario based question on _E-Commerce Order Management System_
   - Solved scenario based question on _Student Course Registration System_
   - Solved scenario based question on _ Inventory Management System_
+
+- **13-Jan-2026 (Tuesday) :-**
+  - Solved scenario based question on _Voting System_
+  - Solved scenario based question on _HOtel Management System_
+  - Solved scenario based question on _ Digital Wallet_
+  - Solved scenario based question on _Online Examination System_
