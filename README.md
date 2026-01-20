@@ -190,3 +190,18 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved scenario based question on \_Quick Sort
   - Solved scenario based question on _Sleection Sort_
   - Solved scenario based question on _ Counting Sort_
+
+ - **17-Jan-2026 (Saturday) :-**
+  - Searching submission -: Linear and Binary Search
+  
+
+ - **18-Jan-2026 (Sunday) :-**
+  - Merge Conflict Submission
+
+ - **19-Jan-2026 (Firday) :-**
+  -Address Book problem Submission
+
+ - **20-Jan-2026 (Firday) :-**
+  - Big 0 notation submission
+
+
