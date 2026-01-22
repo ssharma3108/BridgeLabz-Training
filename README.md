@@ -191,17 +191,17 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved scenario based question on _Sleection Sort_
   - Solved scenario based question on _ Counting Sort_
 
- - **17-Jan-2026 (Saturday) :-**
-  - Searching submission -: Linear and Binary Search
-  
+- **17-Jan-2026 (Saturday) :-**
+- Searching submission -: Linear and Binary Search
 
- - **18-Jan-2026 (Sunday) :-**
-  - Merge Conflict Submission
+- **18-Jan-2026 (Sunday) :-**
+- Merge Conflict Submission
 
- - **19-Jan-2026 (Firday) :-**
+- **19-Jan-2026 (Monday) :-**
   -Address Book problem Submission
 
- - **20-Jan-2026 (Firday) :-**
-  - Big 0 notation submission
+- **20-Jan-2026 (Tuesday) :-**
+- Big 0 notation submission
 
-
+- **21-Jan-2026 (Wednesday) :-**
+- Solved problem releated to Generics
