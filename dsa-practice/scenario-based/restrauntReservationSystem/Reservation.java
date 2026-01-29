@@ -1,6 +1,6 @@
 package restrauntReservationSystem;
 
-public class Reservation {
+class Reservation {
   int tableNumber;
   boolean isBooked;
 
@@ -8,5 +8,4 @@ public class Reservation {
     this.tableNumber = tableNumber;
     this.isBooked = isBooked;
   }
-
 }

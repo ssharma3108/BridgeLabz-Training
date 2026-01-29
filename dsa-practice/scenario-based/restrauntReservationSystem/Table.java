@@ -3,7 +3,8 @@ package restrauntReservationSystem;
 import java.sql.Time;
 import java.util.*;
 
-public class Table {
+// Table class
+class Table {
   int tableNumber;
   String customerName;
   Date date;
@@ -11,25 +12,8 @@ public class Table {
 
   Table(int tableNumber, String customerName, Date date, Time time) {
     this.tableNumber = tableNumber;
-    this.time = time;
-    this.date = date;
     this.customerName = customerName;
+    this.date = date;
+    this.time = time;
   }
-
-  public int getTableNumber() {
-    return tableNumber;
-  }
-
-  public String getCustomerName() {
-    return customerName;
-  }
-
-  public Date getDate() {
-    return date;
-  }
-
-  public Time getTime() {
-    return time;
-  }
-
 }
