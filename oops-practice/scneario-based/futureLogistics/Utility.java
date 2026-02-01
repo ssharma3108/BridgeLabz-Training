@@ -3,8 +3,74 @@ package futureLogistics;
 import java.util.*;
 
 public class Utility {
-  public static void main(String[] args) {
 
+  public boolean validateTransportId(String transportId) {
+    String regex = "RTS[0-9]{3}[A-Z]";
+
+    if (transportId.matches(regex)) {
+      return true;
+    } else {
+      System.out.println("Transport id " + transportId + " is invalid");
+      System.out.println("Please provide a valid record");
+      return false;
+    }
 
   }
+
+  // parse input string and return GoodsTransport object
+  public GoodTransport parseDetails(String input) {
+
+    String[] data = input.split(":");
+
+    String transportId = data[0];
+    String transportDate = data[1];
+    int transportRating = Integer.parseInt(data[2]);
+    String transportType = data[3];
+
+    if (transportType.equalsIgnoreCase("BrickTransport")) {
+
+      float brickSize = Float.parseFloat(data[4]);
+      int brickQuantity = Integer.parseInt(data[5]);
+      float brickPrice = Float.parseFloat(data[6]);
+
+      return new BrickTransport(
+          transportId,
+          transportDate,
+          transportRating,
+          brickSize,
+          brickQuantity,
+          brickPrice);
+
+    } else if (transportType.equalsIgnoreCase("TimberTransport")) {
+
+      float timberLength = Float.parseFloat(data[4]);
+      float timberRadius = Float.parseFloat(data[5]);
+      String timberType = data[6];
+      float timberPrice = Float.parseFloat(data[7]);
+
+      return new TimberTransport(
+          transportId,
+          transportDate,
+          transportRating,
+          timberLength,
+          timberRadius,
+          timberType,
+          timberPrice);
+    }
+
+    return null;
+  }
+
+  public String findObjectByType(GoodTransport goodTransport) {
+
+    if (goodTransport.equals("TimberTransport")) {
+      return "TimberTransport";
+    } else if (goodTransport.equals("BrickTransport")) {
+      return "BrickTransport";
+    }
+
+    return "Not found";
+
+  }
+
 }
