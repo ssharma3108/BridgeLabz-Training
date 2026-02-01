@@ -32,4 +32,11 @@ abstract public class GoodTransport {
 
   abstract public float calculateTotalCharge();
 
+  protected abstract String getTransportDate();
+
+  public String getTransportRating() {
+    // TODO Auto-generated method stub
+    throw new UnsupportedOperationException("Unimplemented method 'getTransportRating'");
+  }
+
 }

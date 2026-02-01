@@ -73,4 +73,9 @@ public class Utility {
 
   }
 
+  public String findObjectType(GoodTransport goodsTransport) {
+    // TODO Auto-generated method stub
+    throw new UnsupportedOperationException("Unimplemented method 'findObjectType'");
+  }
+
 }
