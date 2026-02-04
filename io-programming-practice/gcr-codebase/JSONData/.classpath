@@ -7,5 +7,8 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/sshar/Downloads/json-20240303.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sshar/Downloads/jackson-annotations-2.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sshar/Downloads/jackson-core-2.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sshar/Downloads/jackson-databind-2.17.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
