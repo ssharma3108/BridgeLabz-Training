@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	
 	System.out.println("Enter the number of vessels to be added -: ");
 	int n=scanner.nextInt();
-	scanner.nextLine();
+
 	
 	for(int i=1;i<=n;i++) {
 	String input=scanner.nextLine();
@@ -36,9 +36,6 @@ public static void main(String[] args) {
 	
 	System.err.println("High performance vessels are -: ");
 	vesselUtil.getHighPerformanceVessels();
-	
-	
-	
 	
 }
 }
