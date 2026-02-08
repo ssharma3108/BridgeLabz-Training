@@ -4,5 +4,5 @@
 /**
  * 
  */
-module collectors {
+module designPatterns {
 }
