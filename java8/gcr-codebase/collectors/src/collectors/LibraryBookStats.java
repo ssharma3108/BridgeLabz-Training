@@ -4,8 +4,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 class Book {
-    String genre;
-    int pages;
+     private String genre;
+    private int pages;
 
     Book(String genre, int pages) {
         this.genre = genre;
